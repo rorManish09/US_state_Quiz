@@ -4,6 +4,7 @@ screen = turtle.Screen()
 screen.title("U.S States Game || Type exit to close")
 image = "blank_states_img.gif"
 screen.addshape(image)
+
 turtle.shape(image)
 
 
